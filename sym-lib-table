@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LM3915)(type Legacy)(uri ${KIPRJMOD}/LM3915.lib)(options "")(descr ""))
+)
